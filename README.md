@@ -14,7 +14,7 @@ The core dataset maps the original probability of computerization/automation for
 By harmonizing these classifications, we calculated the median probability of automation for different ISCO-08 occupational groups. These coefficients serve as the foundation for the weighted vulnerability index.
 
 ## 🗂 Data Structure
-The primary dataset (`Automatization_isco-08.csv`) includes the conversion table and the following key metrics:
+The primary dataset (`Automatization_isco-08.xlsx`) includes the conversion table and the following key metrics:
 * **SOC 2010 Codes & Titles:** The original US occupational classifications.
 * **ISCO-08 Codes & Titles:** The mapped international occupational classifications.
 * **Probability:** The estimated probability of automation for the specific role (Frey & Osborne).
